@@ -1,7 +1,7 @@
 .container-left {
     height: calc(100vh - 100px);
     display: flex;
-    background-image: url('/logo/lohp_en_1302x955.png');
+    background-image: url('lohp_en_1302x955.png');
     background-size: cover;
     background-position: center;
     align-items: center;
